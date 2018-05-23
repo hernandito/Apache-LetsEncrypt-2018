@@ -1,4 +1,4 @@
-#FROM linuxserver/baseimage.apache
+FROM tutum/apache-php
 MAINTAINER hernandito
 
 # copy sources.list
